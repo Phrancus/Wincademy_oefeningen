@@ -1,3 +1,5 @@
+'''Oefening met Strings van data types and operations. '''
+
 
 scorer1 = 'Demyanenko'
 scorer2 = 'Lytovchenko'
